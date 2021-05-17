@@ -22,6 +22,8 @@ public class Test1 {
 	}
 
 }
+
+
 ![image](https://user-images.githubusercontent.com/84062291/118464941-5c561c00-b73c-11eb-9943-2e0cbbb21730.png)
 
 
@@ -45,6 +47,8 @@ public class Test2 {
 	}
 
 }
+
+
 ![image](https://user-images.githubusercontent.com/84062291/118464846-3f214d80-b73c-11eb-8264-794ebab11ac5.png)
 
 
@@ -66,6 +70,8 @@ public class Test3 {
 	}
 
 }
+
+
 ![image](https://user-images.githubusercontent.com/84062291/118464784-2f096e00-b73c-11eb-9598-24ea2186f9ba.png)
 
 
@@ -92,5 +98,7 @@ public class OperationEx1 {
 	}
 
 }
+
+
 ![image](https://user-images.githubusercontent.com/84062291/118464699-1a2cda80-b73c-11eb-924b-615f5860337b.png)
 
