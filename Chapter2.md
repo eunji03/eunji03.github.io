@@ -1,23 +1,67 @@
-# 변수와 자료형
-## 10진수와 2진수
-10진수|2진수|8진수|16진수
-------|-------|------|-------
- 0|0|0|0
- 1|1|1|1
- 2|10|2|2
- 3|11|3|3
- 4|100|4|4
- 5|101|5|5
- 6|110|6|6
- 7|111|7|7
- 8|1000|10|8
- 9|1001|11|9
- 10|1010|12|A
- 11|1011|13|B
- 12|1100|14|C
- 13|1101|15|D
- 14|1110|16|E
- 15|1111|17|F
- 16|10000|20|10
+### 문제1
+package ch03;
+
+public class Test1 {
+
+	public static void main(String[] args) {
+	
+		System.out.println("문제1");
+		
+		int aa = Integer.parseInt(args[0]);
+		int bb = Integer.parseInt(args[1]);
+		int cc = Integer.parseInt(args[2]);
+		
+		int total = aa+bb+cc;
+		
+		System.out.println("sum : "+total);
+		
+		int avgg = total / 3;
+		
+		System.out.println("avg : "+avgg);
+		
+	}
+
+}
+
+### 문제2
+package ch03;
+
+public class Test2 {
+
+	public static void main(String[] args) {
+				
+		System.out.println("문제2");
+		
+		int a = Integer.parseInt(args[0]);
+		int b = Integer.parseInt(args[1]);
+		
+		a = 100 + a;
+		b = b % 10;
+		System.out.println(a);
+		System.out.println(b);
+
+	}
+
+}
+
+### 문제3
+package ch03;
+
+public class Test3 {
+
+	public static void main(String[] args) {
+		
+		int a = Integer.parseInt(args[0]);
+		int b = Integer.parseInt(args[1]);
+		
+		int ab = a/b;
+		int ba = a%b;
+		
+		System.out.println(a + "/" + b + "=" +ab+"..."+ba);
+
+	}
+
+}
+
  
  
