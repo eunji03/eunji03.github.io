@@ -22,6 +22,8 @@ public class Test1 {
 	}
 
 }
+![image](https://user-images.githubusercontent.com/84062291/118463862-3419ed80-b73b-11eb-9e45-e651e7e4eb1e.png)
+
 
 ### 문제2
 package ch03;
@@ -43,6 +45,8 @@ public class Test2 {
 	}
 
 }
+![image](https://user-images.githubusercontent.com/84062291/118463967-4d229e80-b73b-11eb-9f8d-d6a955239ac3.png)
+
 
 ### 문제3
 package ch03;
@@ -62,6 +66,8 @@ public class Test3 {
 	}
 
 }
+![image](https://user-images.githubusercontent.com/84062291/118464046-63305f00-b73b-11eb-8fd4-3523c568a1a5.png)
+
 
 ## 책 P88
 package ch03;
@@ -86,3 +92,4 @@ public class OperationEx1 {
 	}
 
 }
+![image](https://user-images.githubusercontent.com/84062291/118464164-81965a80-b73b-11eb-88d2-8f8be7181fcc.png)
