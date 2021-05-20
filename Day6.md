@@ -32,3 +32,6 @@ public class Ex05 {
 	}
 
 }
+
+![image](https://user-images.githubusercontent.com/84062291/118925248-5c8f2b00-b979-11eb-93e7-4dc5bb0ed59b.png)
+
